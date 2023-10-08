@@ -1,4 +1,4 @@
-# Covid19Fake-News-detection.
+# Covid19 Related Fake-News-detection.
 The fraud detection system focuses on identifying Covid-19 related fake news using various machine learning models. 
 
 Model 1 employs Logistic Regression, utilizing precision (true positives divided by the sum of true and false positives), recall (true positives divided by the sum of true positives and false negatives), and F1 Score (a weighted harmonic mean of precision and recall) for performance evaluation, achieving an accuracy score of 89.95%. 
